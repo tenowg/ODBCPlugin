@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "ODBCPlugin",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "tenowg",
+	"CreatedByURL" : "http://thedemgel.com",
+	"EngineVersion" : "4.2.0",
+	"Description" : "ODBC Integration",
+	"Category" : "Database",
+	"EnabledByDefault" : false,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "ODBCPlugin",
+			"Type" : "Runtime"
+		}
+	]
+}
