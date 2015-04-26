@@ -13,4 +13,4 @@ Yes, Currently Async options are available, but uses the polling method over the
 
 ### Examples
 #### Where Clause Blueprint
-![WhereClause Example](https://onedrive.live.com/redir?resid=BDC4774E5CAB36D4!9568&authkey=!AFgBCLCSUFZUkY4&v=3&ithint=photo%2cPNG)
+![WhereClause Example](https://onedrive.live.com/redir?resid=BDC4774E5CAB36D4!9568&authkey=!AFgBCLCSUFZUkY4&v=3&ithint=photo%2cPNG "Logo Title Text 1")
