@@ -12,5 +12,10 @@ ODBCPlugin will generate simple SQL queries using Blueprints via Structs, Functi
 Yes, Currently Async options are available, but uses the polling method over the notification method. Future plans to include an option to use the notification method with Events.
 
 ### Examples
+#### Connection Creation
+![Connection Creation](https://copy.com/BKOsOnW2Dsr8sOOS)
+This connects to the database though ODBC, this can be run at Begin Play on any entity that needs to connect to a database.
+
 #### Where Clause Blueprint
 ![WhereClause Example](https://copy.com/s4bYOK2u6vRz00gV)
+This would produce something similar to: WHERE ([testing].[text] = test AND [testing].[integer] = 0)
